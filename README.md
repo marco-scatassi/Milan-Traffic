@@ -9,3 +9,5 @@
 - **Flow_Weather.knwf**: this knime workflow is used to identify dates between 2022-01-17T00:20 and 2022-01-31T00:30 where traffic and weather information are not available.
 
 - **DB_with_missing.csv**: this is the csv obtained adding missing data to the DB.csv file.
+
+The Data_preparation.py was created togheter with Niccolò Puccinelli (https://www.linkedin.com/in/niccol%C3%B2-puccinelli-b1ba2a232/) and Greta Gravina (https://www.linkedin.com/in/greta-gravina-742925189/).
